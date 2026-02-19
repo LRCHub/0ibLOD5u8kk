@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バイオレンス",
+  "base_artist": "女王蜂",
+  "createdAt": "2026-02-19T08:30:26.424411Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バイオレンス",
+      "artist": "女王蜂",
+      "has_synced": false,
+      "path": "select/pl_01_バイオレンス_女王蜂.txt"
+    }
+  ]
+}
